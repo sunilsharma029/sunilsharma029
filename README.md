@@ -92,9 +92,8 @@ To build a successful career as a Data Analyst by applying analytical thinking, 
 <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>
 </a>
 
-<a href="https://sunilsharma029.github.io/91-6376309510/" target="_blank">
-  <img src="https://img.icons8.com/color/48/phone.png"
-       height="45" alt="Contact"/>
+<a href="https://sunilsharma029.github.io/contact/" target="_blank" title="View My Contact Details">
+<img src="https://img.icons8.com/color/48/phone.png" height="45" alt="Contact"/>
 </a>
 
 </p>
