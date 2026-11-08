@@ -1,8 +1,10 @@
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
     <title>Contact | Sunil Sharma</title>
 
     <style>
@@ -20,16 +22,18 @@
             display: flex;
             justify-content: center;
             align-items: center;
+            padding: 20px;
         }
 
         .card {
             background: #161b22;
-            padding: 40px;
+            padding: 40px 30px;
             border-radius: 20px;
             text-align: center;
-            width: 90%;
-            max-width: 400px;
+            width: 100%;
+            max-width: 420px;
             border: 1px solid #30363d;
+            box-shadow: 0 10px 35px rgba(0,0,0,0.4);
         }
 
         .profile {
@@ -48,6 +52,7 @@
 
         h1 {
             margin-bottom: 10px;
+            font-size: 28px;
         }
 
         .subtitle {
@@ -60,20 +65,38 @@
             margin-bottom: 25px;
         }
 
-        .call {
+        .btn {
             display: block;
-            background: #238636;
-            color: white;
-            text-decoration: none;
             padding: 14px;
             border-radius: 10px;
+            text-decoration: none;
             font-weight: bold;
-            margin-bottom: 20px;
+            margin-bottom: 15px;
+            transition: 0.3s;
+        }
+
+        .call {
+            background: #238636;
+            color: white;
+        }
+
+        .call:hover {
+            background: #2ea043;
         }
 
         .email {
-            color: #00c4ff;
-            text-decoration: none;
+            background: #0969da;
+            color: white;
+        }
+
+        .email:hover {
+            background: #218bff;
+        }
+
+        .footer {
+            color: #8b949e;
+            font-size: 12px;
+            margin-top: 20px;
         }
     </style>
 </head>
@@ -86,19 +109,28 @@
 
         <h1>Sunil Sharma</h1>
 
-        <p class="subtitle">Data Analyst | MIS Executive</p>
+        <p class="subtitle">
+            Data Analyst | MIS Executive
+        </p>
 
-        <p class="number">📞 +91 6376309510</p>
+        <p class="number">
+            📞 +91 6376309510
+        </p>
 
-        <a class="call" href="tel:+916376309510">
+        <a class="btn call" href="tel:+916376309510">
             📞 CALL NOW
         </a>
 
-        <a class="email" href="mailto:sunilsharma.work@outlook.com">
-            ✉️ Email Me
+        <a class="btn email" href="mailto:sunilsharma.work@outlook.com">
+            ✉️ SEND EMAIL
         </a>
+
+        <p class="footer">
+            © 2026 Sunil Sharma | All Rights Reserved
+        </p>
 
     </div>
 
 </body>
 </html>
+```
