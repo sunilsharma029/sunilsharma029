@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Sunil Sharma </h1>
+# Hi 👋, I'm Sunil Sharma
+
+<h1 align="center">Hi 👋, I'm Sunil Sharma</h1>
 
 <h3 align="center">Data Analyst | Python | SQL | Power BI | Excel</h3>
 
@@ -7,7 +9,7 @@
 </p>
 
 <p align="center">
-  <b>Turning Raw Data into Meaningful Business Insights 🚀</b>
+<b>Turning Raw Data into Meaningful Business Insights 🚀</b>
 </p>
 
 ---
@@ -73,46 +75,31 @@
 ## 🎯 Career Objective
 
 To build a successful career as a Data Analyst by applying analytical thinking, problem-solving skills, and data visualization techniques to support business decisions.
+
+---
+
 ## 🌐 Connect with Me
 
 <p align="left">
+
 <a href="https://www.linkedin.com/in/sunil-sharma-31003143a/" target="_blank">
-   <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:sunilsharma.work@outlook.com">
-   <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Email"/>
 </a>
 
 <a href="https://github.com/sunilsharma029" target="_blank">
-   <img src="https://skillicons.dev/icons?i=github" height="45"/>
+<img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>
 </a>
 
-<a href="https://wa.me/919352628954">
-    <img src="https://cdn.simpleicons.org/whatsapp/25D366" height="45"/>
-  </a>
-  
-<a href="https://wa.me/916376309510" title="Contact Me">
-  <img src="https://img.icons8.com/color/48/phone.png"
-       height="45" alt="Phone"/>
+<a href="https://sunilsharma029.github.io/contact/" target="_blank" title="View My Contact Details">
+<img src="https://img.icons8.com/color/48/phone.png" height="45" alt="Contact"/>
 </a>
-</p
-  
----
 
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sunilsharma029&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sunilsharma029&layout=compact&theme=tokyonight)
+</p>
 
 ---
 
-## 📈 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sunilsharma029&theme=tokyo-night)
-
----
-
-<h3 align="center">⭐ Thanks for Visiting My Profile ⭐</h3>
-<h4 align="center">Keep Learning | Keep Building | Keep Growing 🚀</h4>
+## 📊 GitHub
