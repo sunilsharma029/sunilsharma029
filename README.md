@@ -77,24 +77,25 @@ To build a successful career as a Data Analyst by applying analytical thinking, 
 
 <p align="left">
 <a href="https://www.linkedin.com/in/sunil-sharma-31003143a/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+   <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
-<a href="sunilsharma.work@outlook.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+<a href="mailto:sunilsharma.work@outlook.com">
+   <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
 <a href="https://github.com/sunilsharma029" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
+   <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
-</p>
 
-## 🌐 Connect With Me
-
-- 🐙 GitHub: https://github.com/sunilsharma029
-- 💼 LinkedIn: Add your LinkedIn profile URL
-- 📧 Email: Add your professional email
-
+<a href="https://wa.me/919352628954">
+    <img src="https://cdn.simpleicons.org/whatsapp/25D366" height="45"/>
+  </a>
+  <a href="tel:+916376309510">
+    <img src="https://img.icons8.com/color/48/phone.png" height="45"/>
+  </a>
+</p
+  
 ---
 
 ## 📊 GitHub Statistics
