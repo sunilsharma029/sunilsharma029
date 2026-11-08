@@ -84,7 +84,7 @@ To build a successful career as a Data Analyst by applying analytical thinking, 
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
-<a href="https://github.com/ankit-saraswat2000" target="_blank">
+<a href="https://github.com/sunilsharma029" target="_blank">
 <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 </p>
