@@ -92,8 +92,9 @@ To build a successful career as a Data Analyst by applying analytical thinking, 
     <img src="https://cdn.simpleicons.org/whatsapp/25D366" height="45"/>
   </a>
   
-<a href="https://example.com" title="+91 9352628954">
-  <img src="https://img.icons8.com/color/48/phone.png" height="45" alt="Phone"/>
+<a href="https://wa.me/916376309510" title="Contact Me">
+  <img src="https://img.icons8.com/color/48/phone.png"
+       height="45" alt="Phone"/>
 </a>
 </p
   
