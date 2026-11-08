@@ -1,8 +1,10 @@
-# Hi 👋, I'm Sunil Sharma
+<h1 align="center">Hi 👋, I'm Sunil Sharma </h1>
 
-<h3 align="center">MIS Executive | Data Analyst</h3>
+<h3 align="center">Data Analyst | Python | SQL | Power BI | Excel</h3>
 
-<h3 align="center">📊 SQL | Python | Power BI | Advanced Excel</h3>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Data+Analyst;Python+Developer;SQL+Developer;Power+BI+Developer;Always+Learning+New+Things"/>
+</p>
 
 <p align="center">
   <b>Turning Raw Data into Meaningful Business Insights 🚀</b>
