@@ -72,9 +72,14 @@
 
 ## 🎯 Career Objective
 
-To start my career as an MIS Executive / Data Analyst and use my analytical, technical and problem-solving skills to transform data into actionable business insights.
+To build a successful career as a Data Analyst by applying analytical thinking, problem-solving skills, and data visualization techniques to support business decisions.
+## 🌐 Connect with Me
 
----
+<p align="left">
+<a href="https://www.linkedin.com/in/ankit-saraswat-data/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
 
 ## 🌐 Connect With Me
 
