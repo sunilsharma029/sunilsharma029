@@ -76,7 +76,7 @@ To build a successful career as a Data Analyst by applying analytical thinking, 
 ## 🌐 Connect with Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/ankit-saraswat-data/" target="_blank">
+<a href="https://www.linkedin.com/in/sunil-sharma-data/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
