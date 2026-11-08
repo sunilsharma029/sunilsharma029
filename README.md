@@ -96,10 +96,9 @@ To build a successful career as a Data Analyst by applying analytical thinking, 
 <img src="https://cdn.simpleicons.org/whatsapp/25D366" height="45"/>
 </a>
 
-<a href="tel:+916376309510">
-<img src="https://img.icons8.com/color/48/phone.png" height="45" alt="Call"/>
+<a href="https://sunilsharma029.github.io/sunilsharma029/contact/" target="_blank">
+<img src="https://img.icons8.com/color/48/phone.png" height="45" alt="Contact"/>
 </a>
-
 </p>
 
 ---
