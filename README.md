@@ -84,7 +84,7 @@ To build a successful career as a Data Analyst by applying analytical thinking, 
 <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
 </a>
 
-<a href="mailto:sunilsharma.work@outlook.com">
+<a href="mailto:sunilsharma.analytics@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Email"/>
 </a>
 
