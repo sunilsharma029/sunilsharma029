@@ -46,24 +46,19 @@
 - Python, Tkinter, MySQL, Excel & Power BI
 - Inventory tracking and stock management
 - Automated Excel reporting and dashboard
-
-### 2. IPL 2025 Data Analysis
-- Python, Pandas, Jupyter Notebook
-- Exploratory Data Analysis (EDA)
-- IPL performance analysis
-
-### 3. SK Finances Dashboard
+  
+### 2. SK Finances Dashboard
 - Power BI & Excel
 - Financial data analysis
 - Interactive dashboard and visualizations
 
-### 4. NSE Stock Market Analytics
+### 3. NSE Stock Market Analytics
 - Python, MySQL, Excel & Power BI
 - Indian stock market data analysis
 - Stock price trends and reporting
 - Project in progress
 
-### 5. SQL Data Analysis
+### 4. SQL Data Analysis
 - MySQL
 - Joins, Subqueries, CTEs and Window Functions
 - Business data analysis
